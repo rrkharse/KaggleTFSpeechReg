@@ -1,0 +1,9 @@
+# ipython checkpoints
+src/.ipynb_checkpoints
+
+# training data (takes up space)
+train
+train.7z
+
+
+
