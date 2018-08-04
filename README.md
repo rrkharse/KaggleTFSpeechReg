@@ -11,10 +11,10 @@ Dependencies:
 
 To run:
 ```console
-ur_comp:KaggleTFSpeechReg You$ conda create env -f environment.yml
-ur_comp:KaggleTFSpeechReg You$ source activate sreg_venv
-(sreg_venv)ur_comp:KaggleTFSpeechReg You$ cd src
-(sreg_venv)ur_comp:src You$ jupyter notebook
+$ conda create env -f environment.yml
+$ source activate sreg_venv
+(sreg_venv)$ cd src
+(sreg_venv)$ jupyter notebook
 ```
 
 ...and once the notebook opens run, press shift+enter to run each cell.
